@@ -1,1 +1,1 @@
-The connected hull plate currently overlaps the standoff holes and causes them to be inaccessible. I plan on fixing this soon but be aware when downloading the file for the time being.
+Please note that both of these files are completely untested at the moment and may not work in hull cases due to bottoming out from flex.
